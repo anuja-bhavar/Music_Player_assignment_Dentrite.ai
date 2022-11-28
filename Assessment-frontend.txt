@@ -1,0 +1,49 @@
+
+Your Institute 1
+1.	Have you studied at Pune University, Mumbai University, NIT, IIT, IISER, TIFR, ISI, IISc, CMI or a top school in US or UK? Please write down the name of your institute.
+Pune University
+Institute name : Sanjivani college of engg.,kopargaon
+
+Experience 4
+1.	How many years have you been working with React/NodeJS in an academic setting or on personal projects?
+In personal project from 6 months
+2.	How many years have you been working in the analytics space with exposure to ML libraries such as Scikit-learn, caret, NLTK or spark MLlib?
+0 experience
+3.	How many years have you been working with JavaScript/Typescript/HTML/CSS in an academic setting or on personal projects?
+1 year
+4.	Have you done any programming in Python and how many years of experience do you have in an academic setting or on personal projects?
+Yes I have done programming in Python. Developed student registration project in python.6 months experience in python.
+
+Behavioral - Motivation for the Job 3
+1.	What specifically attracted you to this particular position and what interests you most about our company?
+
+2. What are the key contributions you can bring to this role and the company?
+
+Behavioral - Personal 10
+1.	Are you willing to work on weekends?
+No
+2.	What’s the biggest misconception your coworkers/colleagues have about
+you and why do they think that?
+I think others have misconception that I am a workaholic. Well I am dedicated to my work and I aim to improve continuously as a professional while taking care of myself so that I can offer the best of my abilities on a day-to-day basis.
+3.	What’s the most interesting thing about you that’s not on
+your resume?
+I’m very passionate about my work. I volunteered to develop Shriram Irrigation Equipment Company’s website. For that I used technologies like HTML,CSS,JavaScript. Hosted it on hostinger. The website is static and contains information about company like about us,products, serives,contact us details. Also you can contact company through mail for that I used PhpMailer
+4.	Do you feel overwhelmed in high stress/pressure situations?
+Sometime yes for that I do meditation and yoga. I also do workout to keep myself strong and healthy.
+5.	Describe the best partner or supervisor with whom you’ve worked.
+What part of their managing style appealed to you? What characteristics are you looking for in a supervisor/manager?
+In general, I have had the opportunity to work with excellent management. I have always been able to effectively communicate with them and they would often acknowledge my hard work and dedication. However, if I would have to choose one I would say Mrs. Smith because she gave very constructive feedback when needed, which I believe has helped me to further hone my skills.
+
+6.	What are your biggest strengths? What are your biggest weaknesses?
+“I’m a problem solver. I love taking a problem and looking at it from every angle. I enjoy work that challenges me and pushes me to think outside the box and situations where I am allowed to work with other people to come up with creative solutions.
+
+7. How would your manager describe you? Now tell me, how would your best friend describe you?
+8. What are the three things that are most important to you in a job?
+•	Stability. When looking a new position, stability is by far one of the most attractive qualities a role can offer.
+•	Security. Along with stability, you need to be comfortable in your role to really achieve your best.
+•	Reliability.
+•	Opportunity.
+•	Work-life balance.
+
+
+
